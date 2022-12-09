@@ -1,0 +1,15 @@
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/bin/Debug/net5.0/llenarmatriz.deps.json
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/bin/Debug/net5.0/llenarmatriz.runtimeconfig.json
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/bin/Debug/net5.0/llenarmatriz.runtimeconfig.dev.json
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/bin/Debug/net5.0/llenarmatriz.dll
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/bin/Debug/net5.0/ref/llenarmatriz.dll
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/bin/Debug/net5.0/llenarmatriz.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/obj/Debug/net5.0/llenarmatriz.csproj.AssemblyReference.cache
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/obj/Debug/net5.0/llenarmatriz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/obj/Debug/net5.0/llenarmatriz.AssemblyInfoInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/obj/Debug/net5.0/llenarmatriz.AssemblyInfo.cs
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/obj/Debug/net5.0/llenarmatriz.csproj.CoreCompileInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/obj/Debug/net5.0/llenarmatriz.dll
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/obj/Debug/net5.0/ref/llenarmatriz.dll
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/obj/Debug/net5.0/llenarmatriz.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/llenarmatriz/obj/Debug/net5.0/llenarmatriz.genruntimeconfig.cache

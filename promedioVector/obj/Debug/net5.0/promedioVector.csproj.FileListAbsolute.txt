@@ -1,0 +1,15 @@
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/bin/Debug/net5.0/promedioVector.deps.json
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/bin/Debug/net5.0/promedioVector.runtimeconfig.json
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/bin/Debug/net5.0/promedioVector.runtimeconfig.dev.json
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/bin/Debug/net5.0/promedioVector.dll
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/bin/Debug/net5.0/ref/promedioVector.dll
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/bin/Debug/net5.0/promedioVector.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/obj/Debug/net5.0/promedioVector.csproj.AssemblyReference.cache
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/obj/Debug/net5.0/promedioVector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/obj/Debug/net5.0/promedioVector.AssemblyInfoInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/obj/Debug/net5.0/promedioVector.AssemblyInfo.cs
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/obj/Debug/net5.0/promedioVector.csproj.CoreCompileInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/obj/Debug/net5.0/promedioVector.dll
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/obj/Debug/net5.0/ref/promedioVector.dll
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/obj/Debug/net5.0/promedioVector.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/promedioVector/obj/Debug/net5.0/promedioVector.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/bin/Debug/net5.0/alumnos.deps.json
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/bin/Debug/net5.0/alumnos.runtimeconfig.json
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/bin/Debug/net5.0/alumnos.runtimeconfig.dev.json
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/bin/Debug/net5.0/alumnos.dll
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/bin/Debug/net5.0/ref/alumnos.dll
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/bin/Debug/net5.0/alumnos.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/obj/Debug/net5.0/alumnos.csproj.AssemblyReference.cache
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/obj/Debug/net5.0/alumnos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/obj/Debug/net5.0/alumnos.AssemblyInfoInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/obj/Debug/net5.0/alumnos.AssemblyInfo.cs
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/obj/Debug/net5.0/alumnos.csproj.CoreCompileInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/obj/Debug/net5.0/alumnos.dll
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/obj/Debug/net5.0/ref/alumnos.dll
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/obj/Debug/net5.0/alumnos.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/alumnos/obj/Debug/net5.0/alumnos.genruntimeconfig.cache

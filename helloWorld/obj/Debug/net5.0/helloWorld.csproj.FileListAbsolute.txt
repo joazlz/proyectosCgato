@@ -1,0 +1,15 @@
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/bin/Debug/net5.0/helloWorld.deps.json
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/bin/Debug/net5.0/helloWorld.runtimeconfig.json
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/bin/Debug/net5.0/helloWorld.runtimeconfig.dev.json
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/bin/Debug/net5.0/helloWorld.dll
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/bin/Debug/net5.0/ref/helloWorld.dll
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/bin/Debug/net5.0/helloWorld.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/obj/Debug/net5.0/helloWorld.csproj.AssemblyReference.cache
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/obj/Debug/net5.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/obj/Debug/net5.0/helloWorld.AssemblyInfoInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/obj/Debug/net5.0/helloWorld.AssemblyInfo.cs
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/obj/Debug/net5.0/helloWorld.csproj.CoreCompileInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/obj/Debug/net5.0/helloWorld.dll
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/obj/Debug/net5.0/ref/helloWorld.dll
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/obj/Debug/net5.0/helloWorld.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/helloWorld/obj/Debug/net5.0/helloWorld.genruntimeconfig.cache

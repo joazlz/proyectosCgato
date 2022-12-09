@@ -1,0 +1,15 @@
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/obj/Debug/net5.0/pares_impares.csproj.AssemblyReference.cache
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/obj/Debug/net5.0/pares_impares.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/obj/Debug/net5.0/pares_impares.AssemblyInfoInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/obj/Debug/net5.0/pares_impares.AssemblyInfo.cs
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/obj/Debug/net5.0/pares_impares.csproj.CoreCompileInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/bin/Debug/net5.0/pares_impares.deps.json
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/bin/Debug/net5.0/pares_impares.runtimeconfig.json
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/bin/Debug/net5.0/pares_impares.runtimeconfig.dev.json
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/bin/Debug/net5.0/pares_impares.dll
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/bin/Debug/net5.0/ref/pares_impares.dll
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/bin/Debug/net5.0/pares_impares.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/obj/Debug/net5.0/pares_impares.dll
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/obj/Debug/net5.0/ref/pares_impares.dll
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/obj/Debug/net5.0/pares_impares.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/pares_impares/obj/Debug/net5.0/pares_impares.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/obj/Debug/net5.0/sumaVectores.csproj.AssemblyReference.cache
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/obj/Debug/net5.0/sumaVectores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/obj/Debug/net5.0/sumaVectores.AssemblyInfoInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/obj/Debug/net5.0/sumaVectores.AssemblyInfo.cs
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/obj/Debug/net5.0/sumaVectores.csproj.CoreCompileInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/bin/Debug/net5.0/sumaVectores.deps.json
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/bin/Debug/net5.0/sumaVectores.runtimeconfig.json
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/bin/Debug/net5.0/sumaVectores.runtimeconfig.dev.json
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/bin/Debug/net5.0/sumaVectores.dll
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/bin/Debug/net5.0/ref/sumaVectores.dll
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/bin/Debug/net5.0/sumaVectores.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/obj/Debug/net5.0/sumaVectores.dll
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/obj/Debug/net5.0/ref/sumaVectores.dll
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/obj/Debug/net5.0/sumaVectores.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/sumaVectores/obj/Debug/net5.0/sumaVectores.genruntimeconfig.cache

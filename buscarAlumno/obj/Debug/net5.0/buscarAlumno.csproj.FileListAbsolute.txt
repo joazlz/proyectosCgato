@@ -1,0 +1,15 @@
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/obj/Debug/net5.0/buscarAlumno.csproj.AssemblyReference.cache
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/obj/Debug/net5.0/buscarAlumno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/obj/Debug/net5.0/buscarAlumno.AssemblyInfoInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/obj/Debug/net5.0/buscarAlumno.AssemblyInfo.cs
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/obj/Debug/net5.0/buscarAlumno.csproj.CoreCompileInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/bin/Debug/net5.0/buscarAlumno.deps.json
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/bin/Debug/net5.0/buscarAlumno.runtimeconfig.json
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/bin/Debug/net5.0/buscarAlumno.runtimeconfig.dev.json
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/bin/Debug/net5.0/buscarAlumno.dll
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/bin/Debug/net5.0/ref/buscarAlumno.dll
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/bin/Debug/net5.0/buscarAlumno.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/obj/Debug/net5.0/buscarAlumno.dll
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/obj/Debug/net5.0/ref/buscarAlumno.dll
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/obj/Debug/net5.0/buscarAlumno.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/buscarAlumno/obj/Debug/net5.0/buscarAlumno.genruntimeconfig.cache

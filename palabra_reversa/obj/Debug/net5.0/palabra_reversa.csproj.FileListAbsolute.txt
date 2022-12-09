@@ -1,0 +1,15 @@
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/obj/Debug/net5.0/palabra_reversa.csproj.AssemblyReference.cache
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/obj/Debug/net5.0/palabra_reversa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/obj/Debug/net5.0/palabra_reversa.AssemblyInfoInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/obj/Debug/net5.0/palabra_reversa.AssemblyInfo.cs
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/obj/Debug/net5.0/palabra_reversa.csproj.CoreCompileInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/bin/Debug/net5.0/palabra_reversa.deps.json
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/bin/Debug/net5.0/palabra_reversa.runtimeconfig.json
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/bin/Debug/net5.0/palabra_reversa.runtimeconfig.dev.json
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/bin/Debug/net5.0/palabra_reversa.dll
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/bin/Debug/net5.0/ref/palabra_reversa.dll
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/bin/Debug/net5.0/palabra_reversa.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/obj/Debug/net5.0/palabra_reversa.dll
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/obj/Debug/net5.0/ref/palabra_reversa.dll
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/obj/Debug/net5.0/palabra_reversa.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/palabra_reversa/obj/Debug/net5.0/palabra_reversa.genruntimeconfig.cache

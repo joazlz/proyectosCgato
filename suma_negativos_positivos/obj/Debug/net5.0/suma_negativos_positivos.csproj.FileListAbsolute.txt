@@ -1,0 +1,15 @@
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/bin/Debug/net5.0/suma_negativos_positivos.deps.json
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/bin/Debug/net5.0/suma_negativos_positivos.runtimeconfig.json
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/bin/Debug/net5.0/suma_negativos_positivos.runtimeconfig.dev.json
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/bin/Debug/net5.0/suma_negativos_positivos.dll
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/bin/Debug/net5.0/ref/suma_negativos_positivos.dll
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/bin/Debug/net5.0/suma_negativos_positivos.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/obj/Debug/net5.0/suma_negativos_positivos.csproj.AssemblyReference.cache
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/obj/Debug/net5.0/suma_negativos_positivos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/obj/Debug/net5.0/suma_negativos_positivos.AssemblyInfoInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/obj/Debug/net5.0/suma_negativos_positivos.AssemblyInfo.cs
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/obj/Debug/net5.0/suma_negativos_positivos.csproj.CoreCompileInputs.cache
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/obj/Debug/net5.0/suma_negativos_positivos.dll
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/obj/Debug/net5.0/ref/suma_negativos_positivos.dll
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/obj/Debug/net5.0/suma_negativos_positivos.pdb
+/Users/joaquinlinares/Documents/GitHub/c#/suma_negativos_positivos/obj/Debug/net5.0/suma_negativos_positivos.genruntimeconfig.cache
